@@ -10,7 +10,7 @@ Click to shoot
 
 Screenshot
 ===
-![](screenshot.png)
+[![](screenshot.png)](https://strawstack.github.io/GridGame/)
 
 Resources
 ===
